@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bay-hoi.vercel.app/</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bay-hoi.vercel.app/index.html</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bay-hoi.vercel.app/about.html</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bay-hoi.vercel.app/contact.html</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bay-hoi.vercel.app/nguyen-li-hoat-dong-cua-bay-hoi.html</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bay-hoi.vercel.app/cac-loai-bay-hoi.html</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bay-hoi.vercel.app/lap-dat-va-bao-tri-bay-hoi.html</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bay-hoi.vercel.app/ung-dung-cua-bay-hoi.html</loc>
+  <lastmod>2024-08-21T01:52:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
